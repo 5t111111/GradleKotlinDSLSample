@@ -8,7 +8,7 @@ plugins {
 }
 
 application {
-    mainClassName = "HelloWorldKt"
+    mainClassName = "sample.HelloWorldKt"
 }
 
 dependencies {
